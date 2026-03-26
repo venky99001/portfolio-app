@@ -14,7 +14,7 @@ const Hero = () => {
               <span className="text-text/70">{userData.name.split(' ').slice(1).join(' ')}</span>
             </h1>
             <p className="text-xl md:text-2xl text-text/80 max-w-xl font-light leading-relaxed pt-4">
-              A {userData.role} building intelligent models and robust applications.
+              {userData.role}.
             </p>
           </div>
           

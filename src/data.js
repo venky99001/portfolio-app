@@ -1,6 +1,6 @@
 export const userData = {
   name: "Hanumanthu Venkata Rao",
-  role: "Data Science & NLP Enthusiast", 
+  role: "Aspiring AI Engineer specializing in Machine Learning, NLP, and intelligent system development", 
   email: "venkatpavan719@gmail.com",
   phone: "+91-7794934236",
   linkedin: "https://linkedin.com/in/hanumanthuvenkatarao",

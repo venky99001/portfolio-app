@@ -29,7 +29,7 @@ const Footer = () => {
             {initials}
           </h2>
           <p className="text-text/60 text-sm leading-relaxed max-w-xs font-medium">
-            Data Science & NLP Enthusiast focused on building intelligent models and robust applications.
+            Aspiring AI Engineer specializing in Machine Learning, NLP, and intelligent system development.
           </p>
           <div className="flex gap-4 pt-2">
             <a href={userData.github} target="_blank" rel="noreferrer" className="w-10 h-10 rounded-xl bg-accent/5 flex items-center justify-center text-text/60 hover:bg-accent hover:text-white transition-all duration-300">
